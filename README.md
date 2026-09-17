@@ -11,3 +11,7 @@ The columns represent six fundamental questions: What (Data), How (Function), Wh
 The rows represent different perspectives: Planner, Owner, Designer, Builder, Subcontractor, and the Functioning Enterprise.
 
 Each cell is the intersection of one perspective and one architectural question. For example, Designer × What describes the logical data model, while Builder × How focuses on the technological implementation of functions. The cells are not sequential steps and do not prescribe how a system should be developed. Instead, the framework provides a structured way to classify, organize, and check the completeness of enterprise architecture artifacts.
+
+## License
+
+This project is licensed under the Apache License 2.0. See the LICENSE file for details.

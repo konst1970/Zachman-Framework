@@ -12,6 +12,12 @@ The rows represent different perspectives: Planner, Owner, Designer, Builder, Su
 
 Each cell is the intersection of one perspective and one architectural question. For example, Designer × What describes the logical data model, while Builder × How focuses on the technological implementation of functions. The cells are not sequential steps and do not prescribe how a system should be developed. Instead, the framework provides a structured way to classify, organize, and check the completeness of enterprise architecture artifacts.
 
+## Usage
+
+Upload the Zachman Framework skill to Claude and provide a system, project, or enterprise architecture description.
+
+The skill classifies the provided information across the 36 cells of the Zachman Framework and identifies missing architectural artifacts.
+
 ## License
 
 This project is licensed under the MIT License. See the LICENSE file for details.
